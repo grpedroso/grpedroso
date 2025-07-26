@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Southworks**
 
-- 💬 Ask me about **C#, React, .NET and books**
+- 💬 I love talking about C#, .NET, React, SQL, JavaScript, software architecture, and great books. Always up for a good tech chat!
 
-- 📫 How to reach me **gabrielpedrosor@gmail.com**
+- 📫 Reach me at: **gabrielpedrosor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

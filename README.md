@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grpedroso" alt="grpedroso" /></a> </p>
-
 - 🔭 I’m currently working on **Southworks**
 
 - 💬 I love talking about C#, .NET, React, SQL, JavaScript, software architecture, and great books. Always up for a good tech chat!
